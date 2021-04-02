@@ -1,5 +1,5 @@
 def starter():
-    # Uncomment this once we have the full flow ready for the PokeApp
+    # Uncomment 'PokeAppManager.start()' once we have the full flow ready for the PokeApp
     # The 'start()' function will kick off the flow and put our user into the 'Information flow'
     # The 'information flow' is as follows:
     '''

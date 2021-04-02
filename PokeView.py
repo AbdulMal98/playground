@@ -1,4 +1,4 @@
-def showPokemonInfo(pokemon: Pokemon):
+def showPokemonInfo(pokemon: PokemonDataDto):
     print(
         f'''
         NAME: {pokemon.name}\n
